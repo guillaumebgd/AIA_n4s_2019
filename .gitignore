@@ -1,0 +1,6 @@
+*.o
+.vscode
+n4s
+n4s_buffer
+pipes.sh
+VREP
